@@ -1,0 +1,27 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Angel\Documents\NetBeansProjects\MiscelaneaPalacios\POS Palacios.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Angel\Documents\NetBeansProjects\MiscelaneaPalacios\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000_111
+Java max ver:	
+JRE paths:	1.8.0_111
+Check launcher:	C:\Users\Angel\Documents\NetBeansProjects\MiscelaneaPalacios\1.8.0_111\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_111
+Version string: 1.008.000_111 / 64-Bit (OK)
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Check javac:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javac.exe (OK)
+Match:		1.008.000_111
+Runtime used:	1.008.000_111 (64-bit)
+Launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Angel\Documents\NetBeansProjects\MiscelaneaPalacios\POS Palacios.exe"
+Args length:	84/32768 chars
+Exit code:	0
